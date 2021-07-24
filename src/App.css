@@ -97,6 +97,8 @@ ul {
   color: white;
   padding: 0.5em;
   background: rgb(180, 56, 56);
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
   border: none;
   width: 20%;
 }
